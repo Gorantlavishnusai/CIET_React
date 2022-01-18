@@ -1,5 +1,9 @@
 # WebDevelopemnt Using ReactJS
 
++ Editor
+    + IDE
+    + [Visual Studio Code](https://code.visualstudio.com/download#)
+
 + WebDesign
     + photoshop
 + WebDevelopment
@@ -35,4 +39,5 @@
     + Postgress
     + Sqlite3
 
-    
++ HTML5 (HyperText Markup Language)
+
