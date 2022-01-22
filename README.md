@@ -114,8 +114,186 @@
     - General Sibling Selector (~)
     - Adjacent Sibling Selector (+)
 
++ BoxModal
+    - margin
+    - padding
 
 + FlexBox
++ Responsive Webdesign
+
+    - Media queries
+
+```
+@media only screen and (min-width:320px){
+
+    css code
+}
+
+```
+
+- Extra small devices (<600px)
+- Small devices (>600px)
+- Medium devices (>768px)
+- Large devices (>992px)
+- Extra Large devices (>1200px)
+
+- 1rem =16px
+
+##### Bootstrap4.6
+
++ CSS framework
++ ` module --> package --> library --> framework`
++ It contains default classes
+
+
++ Color classes
+    - `primary`
+    - `secondary`
+    - `info`
+    - `success`
+    - `warning`
+    - `danger`
+    - `light`
+    - `dark`
+    - `white`
+
++ Alerts
++ buttons
++ text
++ bg
+
++ tables
++ Modal
++ cards
+
+Task:
+=====
+
+
++ Registration Form
++ Loginform
+
+#### JavaScript
+
+= `Brenden Eich`
++ ES-11 (ECMA Script)
++ Datatypes
+
+    - Number
+    - BigInt (2^53-1)
+    - String
+    - Boolean
+    - Null
+    - undefined
+    - Array
+    - Object
+
++ `if`
+- `if-else`
+- `nested if`
+- `switch`
+- `for`
+- `while`
+- `do-while`
+
+- `var`
+- `ES-5`
+    - `forEach() `
+- `ES-6`
+    - `let & const`
+    - `map`
+    - `arrow`
+    - `classes`
+    - `spread operator`
+    - `rest parameter`
+
+
++ functions
+
++ console statements
+    - `console.log()`
+    - `console.info()`
+    - `console.warn()`
+    - `console.error()`
+
+
++ var,let & const
+    - scope
+        - function
+           - var
+        - block
+    - redefine
+        - var,let
+    - redclare  --> var
+
++ Array
+
+    - `for`
+    - ` for-in `
+    - ` for-of`
+    - `forEach()`
+    - `map`
+
++ Object
+
++ DOM (Document Object Model)
+
++ `document`
++ `window`
++ `navigator`
++ `history`
+
+#### JSON
+
++ JavaScript Object Notation
+
++ It is a pair of key and value
+
+
++ `Ajax call` or `fetch api` or `promises`
+```
+let data=[354,6546,87687,78]
+
+let name="Rajesh"
+let employee={
+    name:"Rajesh",
+    id:"al21567",
+    salary:78000
+}
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
